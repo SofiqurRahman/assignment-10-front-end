@@ -1,0 +1,26 @@
+.registerForm{
+  margin-top: 20px;
+  width: 30%;
+  position: absolute;
+  top: 100px;
+  left: 470px;
+  padding: 80px 50px;
+  background-color: #fff;
+  border-radius:10px;
+  border: 2px solid lightgray;
+}
+.header{
+  font-size: 24px;
+  font-weight: bold;
+}
+.text{
+  width: 85%;
+  margin-bottom: 15px;
+}
+.regBtn{
+  width: 85%;
+  border: none;
+  background-color: #3F90FC;
+  color: #fff;
+  padding: 5px 0;
+}

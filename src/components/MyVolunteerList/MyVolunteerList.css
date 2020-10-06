@@ -1,0 +1,15 @@
+.card{
+  text-align: center;
+  width: 35%;
+  float: left;
+  margin-left: 100px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+.img{
+  width: 400px;
+  height: 400px;
+}
+.cancel{
+  width: 30%;
+}

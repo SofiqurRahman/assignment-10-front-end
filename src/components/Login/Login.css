@@ -1,0 +1,41 @@
+.loginForm{
+  margin-top: 20px;
+  width: 30%;
+  position: absolute;
+  top: 100px;
+  left: 470px;
+  padding: 100px 50px;
+  background-color: #fff;
+  border-radius:10px;
+  border: 2px solid lightgray;
+}
+/* .password{
+  width: 70%;
+  font-size: 1em;
+  border: 1px solid lightgray;
+  padding: 10px 30px;
+  margin-bottom: 15px;
+} */
+/* .linkLeft{
+  margin-right: 110px;
+}
+.linkColor{
+  color: #F9A51A;
+  text-decoration: underline;
+} */
+/* .logBtn{
+  margin-top: 10px;
+  background-color: #F9A51A;
+  width:85%;
+  padding: 15px 30px;
+  border:none;
+} */
+.googleBtn{
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  background-color: transparent;
+  padding: 10px 70px;
+  /* margin-top: 10px; */
+  /* margin: 0 150px; */
+  cursor: pointer;
+}
