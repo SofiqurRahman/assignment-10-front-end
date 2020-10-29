@@ -1,3 +1,11 @@
+Project Use Technology:
+These projects use reactJS,expressJS,nodeJS,mongoDB,Firebase,html,css,bootstrap.
+
+Volunteer Network Project Description:
+Different link for user and admin panel.
+Adding Event Option for an admin.
+User information saved in both user and admin control and panel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
